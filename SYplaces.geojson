@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0056d6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Sarah Yeo",
+        "place": "Bottlerock",
+        "month": "May"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27751016616821,
+          38.29727925552099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Sarah Yeo",
+        "place": "Burning Man",
+        "month": "September"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.206,
+          40.787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Sarah Yeo",
+        "place": "Electric Forest",
+        "month": "July"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.345833,
+          43.506389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Sarah Yeo",
+        "place": "Mauna Kea Observatories",
+        "month": "January"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4749,
+          19.8222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1778,
+          46.7778
+        ]
+      }
+    }
+  ]
+}
