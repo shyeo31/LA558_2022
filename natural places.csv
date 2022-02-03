@@ -1,0 +1,70 @@
+traveler,place,city,state_provience,Country,STATEABB,month,latitude,longitude
+Harun Celik,Tongass National Forest,Ketchikan,Alaska,United States,US-AK,October,57.329642,-135.973898
+Anne Wurtenberger,Kenai Fjords,Fox River,Alaska,United States,US-AK,June,59.917778,-149.9875
+Sarah Yeo,Tongass National Forest,Juneau,Alaska,United States,US-AK,August,57.329642,-135.973898
+Oyeyemi Oyeleke,kenai Fjords,Fox River,Alaska,United States,US-AK,March,59.917778,-149.9875
+Emily Huston,Mendenhall Ice Caves,Juneau,Alaska,United States,US-AK,December,58.495833,-134.532222
+Kelsey Zimmerman,Banff National Park,Banff,Alberta,Canada,CA-AB,June,51.5,-116
+Yusus Tayo,Moraine Lake,Banff,Alberta,Canada,CA-AB,June,51.5,-116
+Mona Kazemian,Grand Canyon,Flagstaff,Arizona,United State,US-AR,September,36.3,-112.6
+Mona Kazemian,Antelope Canyon,Page,Arizona,United State,US-AR,May,36.952766,-111.441268
+Anne Wurtenberger,Antelope Canyon,Lechee,Arizona,United States,US-AR,April,36.952766,-111.441268
+Sarah Yeo,Buchart Gardens,Victoria,British Columbia,Canada,CA-BC,March,48.565278,-123.469444
+Mona Kazemian,Redwood National Park,Cresent City,California,United State,US-CA,May,41.3,-124
+Yusus Tayo,McWay Falls,Big Sur,California,United State,US-CA,June,36.157806,-121.672139
+Kelsey Zimmerman,Death Valley National Park,Lone Pine,California,United States,US-CA,March,36.241944,-116.825833
+Kelsey Zimmerman,Yosemite National Park,Mariposa,California,United States,US-CA,September,37.7425,-119.5375
+Harun Celik,Yosemite National Park,Mariposa,California,United States,US-CA,April,37.7425,-119.5375
+Vania Komegi,Yosemite National Park,Mariposa,California,United States,US-CA,May,37.7425,-119.5375
+Shiva Afshari,Sequoia National Park,Visalia,California,United States,US-CA,October,36.56471,-118.77337
+Sarah Yeo,Golden Gate Park,San Fransisco,California,United States,US-CA,February,37.769722,-122.476944
+Oyeyemi Oyeleke,McWay Falls,BigSur,California,United States,US-CA,October,36.157806,-121.672139
+Harun Celik,Rocky Mountains,Estes Park,Colorado,United States,US-CO,September,40.333333,-105.708889
+Asif Khan,Historic Town of Georgetown,George Town,Colorado,United States,US-CO,May,39.7125,-105.695833
+Asif Khan,Town of Breckenridge,Breckenridge,Colorado,United States,US-CO,June,39.499619,-106.043292
+Maryam Maddahzad,Aspen,Aspen,Colorodo,United States,US-CO,January,39.190653,-106.819228
+Vania Komegi,Ocala National Forest,DeLand,Florida,United States,US-FL,March,29.173611,-81.821667
+Maryam Maddahzad,Tampa Bay,Tampa Bay,Florida,United States,US-FL,September,27.950575,-82.4571776
+Asif Khan,Miami beach,Miami,Florida,United States,US-FL,November,25.813025,-80.134064
+Oyeyemi Oyeleke,Miami beach,Miami,Florida,United States,US-FL,June,25.813025,-80.134064
+Chris Seeger,Hawaii Volcanoes National Park,Volcano,Hawaii,United States,US-HI,April,19.449722,-155.235556
+Harun Celik,Honolulu,Honolulu,Hawaii,United States,US-HI,March,21.306944,-157.858333
+Shiva Afshari,Mauna Loa,Island of Hawaii,Hawaii,United States,US-HI,April,19.479444,-155.602778
+Shiva Afshari,Ledges State Park,Ames,Iowa,United States,US-IA,June,41.990833,-93.883333
+Yusus Tayo,Puerto Balandra,Baja California Sur,Mexico,Mexico,MX-BCS,January,24.33813,-110.31619
+Yilun Yang,Mackinac Island State Park,Mackinac Island,Michigan,United States,US-MI,October,45.87089,-84.62759
+Yilun Yang,Brockway Mountain Lookout,Mohawk,Michigan,United States,US-MI,October,47.46715,-87.89802
+Yilun Yang,Lutsen Mountain,Lusten,Minnesota,United States,US-MN,December,47.66383,-90.7135
+Asif Khan,Glacier National Park,Crystal Point,Montana,United States,US-MT,May,48.696667,-113.718333
+Chris Seeger,Glacier National Park,West Glacier,Montana,United States,US-MT,June,48.696667,-113.718333
+Harun Celik,Yellowstone National Park,West Yellowstone,Montana,United States,US-MT,April,44.596389,-110.547222
+Vania Komegi,Yellowstone National Park,West Yellowstone,Montana,United States,US-MT,September,44.596389,-110.547222
+Maryam Maddahzad,Glacier National Park,Crystal Point,Montana,United States,US-MT,May,48.4999,-113.9872
+Anne Wurtenberger,Valley of Fire,Overton,Nevada,United States,US-NV,April,36.456111,-114.533056
+Kelsey Zimmerman,White Sands National Park,Almogordo,New Mexico,United States,US-NM,November,32.779167,-106.171944
+Yilun Yang,Niagara Falls State Park,Niagara Falls,New York,United States,US-NY,June,43.08349,-79.0643
+Chris Seeger,Cape Hatteras,Buxton,North Carolina,United States,US-NC,September,35.267778,-75.5425
+Sarah Yeo,Great Slave Lake,Yellowknife,North West Territories,Canada,CA-NT,July,62.453611,-114.37
+Chris Seeger,Bay of Fundy & Annapolis Valley,Digby,Nova Scotia,Canada,CA-NS,August,44.622222,-65.760556
+Sarah Yeo,McNabs Island Provincial Park,Halifax,Nova Scotia,Canada,CA-NS,June,44.866667,-63.716111
+Chris Seeger,Ellesmere Island,Eureka,Nunavut,Canada,CA-NU,July,79.833333,-78
+Emily Huston,Sirmilik National Park,Pond Inlet,Nunavut,Canada,CA-NU,July,72.9906,-81.13732
+Mona Kazemian,"Central Park, North Woods",New York,New York,United State,US-NY,March,40.797,-73.9577
+Mona Kazemian,Niagara Falls,Niagara Falls,New York,United State,US-NY,June,43.0799,-79.0747
+Maryam Maddahzad,Crater Lake,Crater Lake,Oregon,United States,US-OR,May,42.944611,-122.109245
+Oyeyemi Oyeleke,Crater Lake,Crater Lake,Oregon,United States,US-OR,July,42.944611,-122.109245
+Emily Huston,Crater Lake,Crater Lake,Oregon,United States,US-OR,May,-64.733333,-122.1
+Emily Huston,Prince Edward Island National Park,Stanhope,Prince Edward Island,Canada,CA-PE,September,46.416667,-63.075
+Kelsey Zimmerman,Badlands National Park,Rapid City,South Dakota,United States,US-SD,May,43.75,-102.5
+Maryam Maddahzad,The Black Hills National Forest,Rapid City,South Dakota,United States,US-SD,August,43.8889257,-103.4793019
+Emily Huston,Virgin Islands National Park,Cruz Bay,St. John,US Virgin Islands,BVI,June,18.333333,-64.733333
+Yusus Tayo,Hamilton Pool,Hamilton Pool,Texas,United State,US-TX,May,30.34253,-98.12711
+Yilun Yang,Reflection Canyon,Kanab,Utah,United States,US-UT,September,37.18894,-110.91833
+Shiva Afshari,Zion National Park,Springdale,Utah,United States,US-UT,May,37.3,-113
+Shiva Afshari,Bryce Canyon National Park,Bryce Canyon City,Utah,United States,US-UT,September,37.583333,-112.183333
+Anne Wurtenberger,The Wave,Kanab,Utah,United States,US-UT,April,36.996111,-112.006111
+Anne Wurtenberger,Bonneville Salt Flats,West Wendover,Utah,United States,US-UT,April,40.799722,-113.8
+Asif Khan,Great Salt Lake,Salt Lake City,Utah,United States,US-UT,October,41.166667,-112.583333
+Oyeyemi Oyeleke,Great Salt Lake,Salt Lake City,Utah,United States,US-UT,February,41.166667,-112.583333
+Vania Komegi,Mount Rainier National Park,Seattle ,Washington,United States,US-WA,July,46.85,-121.75
+Vania Komegi,Grand Teton National Park,Jackson,Wyoming,United States,US-WY,September,43.833333,-110.700833
