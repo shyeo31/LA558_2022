@@ -133,6 +133,25 @@
           53.46548324462438
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Regina",
+        "yrMoved": 2000,
+        "yrLeft": 2022,
+        "yrsLived": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.60166491568089,
+          50.40336940163038
+        ]
+      }
     }
   ]
 }
