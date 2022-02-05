@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Winnipeg",
+        "yrMoved": 1989,
+        "yrLeft": 1990,
+        "yrsLived": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0671272277832,
+          49.85516762455957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Winnipeg",
+        "yrMoved": 2007,
+        "yrLeft": 2013,
+        "yrsLived": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16916918754578,
+          49.87243311990791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "St. Joseph",
+        "yrMoved": 1990,
+        "yrLeft": 1993,
+        "yrsLived": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3898720741272,
+          49.13348984785217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Altona",
+        "yrMoved": 1993,
+        "yrLeft": 1997,
+        "yrsLived": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.55719900131226,
+          49.09941424569055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Gray",
+        "yrMoved": 1997,
+        "yrLeft": 2000,
+        "yrsLived": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.47397232055664,
+          50.19492410613838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Swift Current",
+        "yrMoved": 2015,
+        "yrLeft": 2018,
+        "yrsLived": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8084945678711,
+          50.28581748437899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "Edmonton",
+        "yrMoved": 2014,
+        "yrLeft": 2015,
+        "yrsLived": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.41511875391006,
+          53.46548324462438
+        ]
+      }
+    }
+  ]
+}
