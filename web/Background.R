@@ -11,7 +11,7 @@ ds1<-read.csv("Background.csv",header=T)
 ############################################################
 library(timevis)
 dataGroups <- data.frame(
-  id      = 1:19,
+  id      = 1:17,
   content = ds1$desc,
   start   = ds1$start,
   end     = ds1$end, 
