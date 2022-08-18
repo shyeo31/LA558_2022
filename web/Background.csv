@@ -1,18 +1,19 @@
 ﻿cat,desc,start,end
-Residential,"10 Bagshaw Place, Regina, Saskatchewan",2018-02-16,2022-08-10
-Residential,"248 th Avenue NW, Swift Current, Saskatchewan",2015-07-06,2018-02-15
-Residential,"10 Bagshaw Place, Regina, Saskatchewan",2013-05-26,2015-07-05
-Residential,"33 Hargrave Street, Winnipeg, Manitoba",2012-09-06,2013-05-25
-Residential,"10 Bagshaw Place, Regina, Saskatchewan",2012-06-18,2012-09-05
-Employment,"World Financial Group Canada Inc., Associate",2017-11-07,2020-11-27
-Employment,"Women in Science and Engineering (WISE) - Faculty of Engineering - University of Manitoba , Coordinator",2009-02-23,2013-05-24
-Education,"University of Manitoba , Extended Education Special Student",2015-01-01,2019-05-29
-Education,"University of Manitoba , Biosystems Engineering Student",2007-09-01,2013-05-29
-Employment,"Sprague-Rosser Contracting Co. Ltd., Piping (Mechanical) Coordinator",2013-10-01,2014-07-29
-Employment,"Schlüter & Maack – Canada, Grain Cleaner",2022-02-21,2022-05-21
-Employment,"RMIS Engineering, Draftsperson",2018-07-01,2020-04-29
-Employment,"Prairie Dome Seed Potatoes, Harvest Labourer",2021-09-01,2021-10-29
-Education,"Iowa State University, Seed Technology & Business Student",2020-05-01,2024-05-14
-Employment,"IntraGrain Technologies, Product Owner ",2020-06-01,2021-06-29
-Employment,"Chermik Communications Ltd., Project Coordinator",2014-02-01,2015-05-29
-Employment,"Batco (AgGrowth International), Engineer-in-Training",2015-05-01,2018-01-29
+Residential,[H.1] Regina,2018-02-16,2022-12-31
+Residential,[H.2] Swift Current,2015-07-06,2018-02-15
+Residential,[H.3] Regina,2013-05-26,2015-07-05
+Residential,[H.4] Winnipeg,2012-09-06,2013-05-25
+Residential,[H.5] Regina,2012-05-30,2012-09-05
+Employment,[I.8] WFG,2017-11-07,2020-11-27
+Employment,[I.19] WISE,2009-02-23,2013-05-24
+Education,[I.12] University of Manitoba,2015-01-06,2019-06-01
+Education,[I.18] University of Manitoba,2007-09-06,2013-04-26
+Employment,[I.16] Sprague-Rosser,2013-10-07,2014-07-31
+Employment,[I.3] Schlüter & Maack,2022-02-21,2022-05-20
+Employment,[I.10] RMIS,2018-07-23,2020-04-03
+Employment,[I.5] Prairie Dome,2021-09-13,2021-10-09
+Education,[I.1] Iowa State University,2020-05-18,2024-05-14
+Employment,[I.7] IntraGrain,2020-06-01,2021-06-09
+Employment,[I.15] Chermik,2014-02-18,2015-05-15
+Employment,[I.14] Batco,2015-05-25,2018-01-24
+Employment,[I.11] Skip The Dishes,2017-08-18,2019-09-25
